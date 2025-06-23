@@ -13,6 +13,8 @@ TBD
 
 [`realsense_d435_mount.stl`](stl/realsense_d435_mount.stl) - top view mount for the RealSense D435 depth camera.
 
+[`column.stl`](stl/column.stl) - support column for the upper level of modified LeKiwi (TODO: add picture)
+
 # Links
 
 - [LeRobot](https://github.com/huggingface/LeRobot)
