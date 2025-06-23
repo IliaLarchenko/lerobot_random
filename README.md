@@ -11,6 +11,8 @@ TBD
 
 `camera_mount_n.stl` [[1](stl/camera_mount_1.stl), [2](stl/camera_mount_2.stl), [3](stl/camera_mount_3.stl), [4](stl/camera_mount_4.stl)] - different mounts for [this camera](https://s.lazada.co.th/s.viOCK). I use it with custom gripper, not all of them will work with the original so-100.
 
+[`realsense_d435_mount.stl`](stl/realsense_d435_mount.stl) - top view mount for the RealSense D435 depth camera.
+
 # Links
 
 - [LeRobot](https://github.com/huggingface/LeRobot)
