@@ -123,7 +123,7 @@ _CONFIGS = [
 
         # Theoretically it should converge faster (x5 in the paper) but it was not the case in my experience
         num_train_steps=5_000,
-        freeze_filter=pi0_fast.Pi0FASTConfig(action_dim=9, paligemma_variant="gemma_2b_lora", action_horizon=10, max_token_len=180).get_freeze_filter(),
+        freeze_filter=pi0_fast.Pi0FASTConfig(action_dim=9, paligemma_variant="gemma_2b_lora", action_horizon=15, max_token_len=180).get_freeze_filter(),
 
         # Turn off EMA for LoRA finetuning.
         ema_decay=None,
