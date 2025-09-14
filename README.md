@@ -1,9 +1,12 @@
 This repository is a collection of random useful things for LeRobot, LeKiwi, and SO-ARM100/101. I experiment with these robots and library a lot and will share some useful pieces of code or stl models here.
 
+# Scripts
+
+[`setup_remote.sh`](scripts/setup_remote.sh) - a script to set up a remote machine to use LeRobot and other tools that includes most of the dependencies that I needed in practice and some extra useful tools. Just run `bash setup_remote.sh` to install all the dependencies - it usually takes up to 10 minutes (depends on the internet speed), and should fix most of the issues.
 
 # Code 
 
-TBD
+VLA section contains some files useful for experiments with VLAs (like Pi0, Pi05, Gr00t, SmolVLA, etc.). Refer to the [README](vla/README.md) for more details.
 
 # 3D models
 
