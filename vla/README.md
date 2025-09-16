@@ -8,7 +8,7 @@ Here I share some extra scripts and configs that can be useful. This repository 
 
 # Pi0
 
-<!-- [![Ep.2 Pi 0](https://img.youtube.com/vi/8dZUOo5xWFw/0.jpg)](https://youtu.be/8dZUOo5xWFw) -->
+[![Ep.2 Pi 0](https://img.youtube.com/vi/ejk6-ffDXFw/0.jpg)](https://youtu.be/ejk6-ffDXFw)
 
 To fine tune Pi0 you can follow instruction in the official repository: https://github.com/Physical-Intelligence/openpi
 
