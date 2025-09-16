@@ -3,6 +3,7 @@ This folder contains some files useful for work with VLAs (Pi0/Pi0.5, Gr00t N.1.
 Each model authors provide good documentation and examples and following them should be enough to get started.
 
 Here I share some extra scripts and configs that can be useful. This repository accompanies my video series about VLAs. You can find it on YouTube:
+
 [![Ep.1 Introduction to VLAs](https://img.youtube.com/vi/8dZUOo5xWFw/0.jpg)](https://youtu.be/8dZUOo5xWFw)
 
 
